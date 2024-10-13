@@ -9,6 +9,7 @@ pip install -r requirements.txt
 ```
 
 Set up the environment by copying `.env.example` to `.env.local` and filling in the required values:
+export the following environment variables
 
 - `LIVEKIT_URL`
 - `LIVEKIT_API_KEY`
